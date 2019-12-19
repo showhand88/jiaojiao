@@ -167,7 +167,6 @@ public class UserServiceImpl implements UserService {
 		jmsTemplate.send(smsDestination, new MessageCreator() {
 			@Override
 			public Message createMessage(Session session) throws JMSException {
-
 				MapMessage mapMessage = session.createMapMessage();
 				mapMessage.setString("mobile", phone);
 				mapMessage.setString("template_code", template_code);
