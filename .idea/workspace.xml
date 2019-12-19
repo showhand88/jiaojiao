@@ -19,340 +19,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9980ef3b-99a7-4aab-999c-27f3549e1361" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-common/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-content-service/src/main/java/com/offcn/content/service/impl/ContentCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-dao/src/main/java/com/offcn/mapper/TbGoodsDescMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-dao/src/main/resources/com/offcn/mapper/TbBrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-dao/src/main/resources/com/offcn/mapper/TbCitiesMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-dao/src/main/resources/com/offcn/mapper/TbProvincesMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-dao/src/main/resources/com/offcn/mapper/TbSeckillGoodsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-dao/src/main/resources/com/offcn/mapper/TbSellerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/java/com/offcn/sellergoods/controller/SpecificationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/admin/specification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/css/pages-login-manage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/_/icon-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/_/itemlike05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/_/list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/_/mobile06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/itemlike/itemlike01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/itemlike/itemlike06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/pay/pay14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/pay/pay21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/phone/intro02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/phone/phone01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/success-cart/buy001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/assets/img/zoom/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/brand02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/brand08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/brand_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/floor-1-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/interest06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/like_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/img/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/js/controller/contentController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/js/controller/userController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/js/pages/person-collect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/js/plugins/sui/sui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/js/service/addressService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/adminLTE/img/credit/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/angularjs/angular-route.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/jQueryUI/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/jQueryUI/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/jQueryUI/images/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/jQueryUI/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/jQueryUI/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/select2/select2-spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/select2/select2_locale_ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/select2/select2_locale_fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/select2/select2_locale_it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web/src/main/webapp/plugins/select2/select2_locale_zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-service/src/main/java/com/offcn/page/service/impl/PageDeleteListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/149187842867964.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/css/pages-index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/css/pages-paysuccess.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/css/pages-register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/css/pages-seckill-index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/fonts/icon-pc.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/buy002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/clock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/itemlike04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/part01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/pay1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/pay17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/phone04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/phone11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/_/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/assets/img/pay/pay16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/assets/img/phone/part01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/assets/img/phone/phone05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/assets/img/success-cart/buy001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/assets/img/zoom/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/banner1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/brand04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/brand11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/brand_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/clock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/floor-1-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/interest05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/like_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/xg/floor01_x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/xg/floor02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/xg/s02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/xg/sell01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/xg/small02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/img/xg/xgloginbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/js/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/js/plugins/birthday/birthday.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/js/widget/jquery.autocomplete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/plugins/angularjs/angular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/plugins/bootstrap/images/arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web/src/main/webapp/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-pojo/src/main/java/com/offcn/pojo/TbFreightTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-pojo/src/main/java/com/offcn/pojo/TbGoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-pojo/src/main/java/com/offcn/pojo/TbItemCatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/css/pages-sampling.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/gocart01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/pay1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/pay18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/pay20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/phone-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/phone08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/photo_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/_/shi_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/assets/img/phone/mobile03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/assets/img/phone/part01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/assets/img/success-cart/gocart01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/assets/img/zoom/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/brand_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/floor-1-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/today02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/xg/bj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/xg/cart01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/xg/s02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/xg/sk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/img/xg/xgloginbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/czFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/pages/jquery.slideunlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/pages/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/pages/sm-city-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/plugins/citypicker/distpicker.data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/js/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/adminLTE/js/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/angularjs/pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/jQueryUI/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/jQueryUI/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/kindeditor-all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/lang/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/baidumap/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/emoticons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/104.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/111.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/117.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/131.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/88.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/image/images/align_right.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/preview/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/plugins/template/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/kindeditor/themes/common/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/select2/select2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/select2/select2_locale_fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/select2/select2_locale_gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/select2/select2_locale_no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/main/webapp/plugins/select2/select2x2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/css/pages-cooperation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/css/pages-login-manage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/fonts/icon-pc.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/fonts/icon-tb.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/fonts/icon-touch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/icon-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/manage-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/mobile06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/pay1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/_/phone08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/itemlike/itemlike04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/pay/pay17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/pay/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/phone/dp02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/phone/intro02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/phone/mobile01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/phone/mobile06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/phone/part03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/phone/phone01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/assets/img/zoom/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/banner4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/brand01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/brand_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/brand_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/goods.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/interest06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/like_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/like_05.png.bdc-downloading" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/xg/cart01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/xg/s02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/xg/small03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/img/zoom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/js/pages/jquery.slideunlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/js/pages/login-manage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/js/pages/person-footmark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/js/widget/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/img/default-50x50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/img/photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/img/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/img/user4-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/adminLTE/img/user7-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/jQueryUI/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/jQueryUI/images/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/jQueryUI/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/jQueryUI/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/lang/zh_CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/baidumap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/119.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/73.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/kindeditor/plugins/image/images/align_left.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/select2/select2-bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/select2/select2_locale_ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/select2/select2_locale_it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web/src/main/webapp/plugins/select2/select2_locale_zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-interface/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/java/com/offcn/shop/controller/ItemCatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/resource/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/admin/seller.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/css/pages-cooperation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/itemlike04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/pay13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/phone03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/phone10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/seckillbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/_/shop-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/ali.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/assets/img/pay/pay13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/assets/img/pay/pay19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/assets/img/pay/pay4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/assets/img/phone/intro02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/assets/img/phone/phone06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/assets/img/zoom/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/avatar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/brand13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/brand_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/floor-1-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/interest04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/like_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/mestro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/img/paypal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/js/controller/baseController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/js/pages/seckill-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/js/pages/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/js/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/js/plugins/sui/sui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/adminLTE/img/boxed-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/adminLTE/img/default-50x50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/kindeditor-all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/kindeditor-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/baidumap/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/101.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/106.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/114.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/134.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/78.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/85.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/filemanager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/select2/select2.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/select2/select2_locale_fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/select2/select2_locale_lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/plugins/select2/select2_locale_no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/webapp/shoplogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-solr-util/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/css/pages-cooperation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/css/pages-seckill-index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/css/pages-zoom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/data/productRelationship.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/data/shoplist-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/fonts/icon-pc.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/_/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/_/list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/_/manage-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/_/mobile05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/assets/img/itemlike/itemlike03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/assets/img/pay/pay11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/assets/img/pay/pay3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/assets/img/phone/mobile02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/assets/img/zoom/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/assets/img/zoom/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/barrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/brand13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/brand_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/floor-1-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/interest05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/like_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/linker.png.bdc-downloading" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/erweima.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/floor02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/h04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/index-banner02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/ll05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/img/xg/sell01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/pages/city-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/pages/login-manage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/pages/seckill-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/widget/jquery.autocomplete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/plugins/angularjs/angular.min.js" afterDir="false" />
+    <list default="true" id="9980ef3b-99a7-4aab-999c-27f3549e1361" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../youlexuan-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../youlexuan-parent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -586,20 +256,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ItemCatController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/java/com/offcn/shop/controller/ItemCatController.java">
+      <file leaf-file-name="spring-security.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/resources/spring/spring-security.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+            <state relative-caret-position="-765">
+              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java">
+      <file leaf-file-name="ContentController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/java/com/offcn/portal/controller/ContentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-298">
-              <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -611,8 +281,8 @@
       <list>
         <option value="HTML File" />
         <option value="Interface" />
-        <option value="JavaScript File" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -659,11 +329,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/youlexuan-sellergoods-service/src/main/java/com/offcn/sellergoods/service/impl/GoodsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/youlexuan-search-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/youlexuan-common/pom.xml" />
-        <option value="$PROJECT_DIR$/youlexuan-search-service/src/main/java/com/offcn/search/service/impl/ItemSearchServiceImpl.java" />
-        <option value="$PROJECT_DIR$/youlexuan-page-interface/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan-page-service/src/main/webapp/WEB-INF/ftl/item.ftl" />
         <option value="$PROJECT_DIR$/youlexuan-page-web/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan-page-web/src/main/webapp/js/controller/itemController.js" />
@@ -703,13 +368,18 @@
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-interface/pom.xml" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml" />
-        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/register.html" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-common/pom.xml" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-activemq.xml" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/properties/sms.properties" />
         <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/java/com/offcn/user/service/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/java/com/offcn/user/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/service/loginService.js" />
+        <option value="$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/home-index.html" />
       </list>
     </option>
   </component>
@@ -770,17 +440,19 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="780" />
+    <option name="x" value="652" />
+    <option name="y" value="384" />
+    <option name="width" value="652" />
+    <option name="height" value="384" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -816,35 +488,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="youlexuan-shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="offcn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="youlexuan-shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="offcn" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="youlexuan-shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="offcn" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -895,15 +538,6 @@
               <item name="youlexuan-user-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="youlexuan-user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -914,6 +548,158 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -949,11 +735,11 @@
       <recent name="com.offcn.shop.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\youlexuan-parent\youlexuan-common\src\main\java\com\offcn\util" />
+      <recent name="E:\youlexuan-parent\youlexuan-user-web\src\main\resources\spring" />
       <recent name="E:\youlexuan-parent\youlexuan-user-web\src\main\webapp" />
+      <recent name="E:\youlexuan-parent\youlexuan-common\src\main\java\com\offcn\util" />
       <recent name="E:\youlexuan-parent\youlexuan-user-web\src\main\java\com\offcn\user\controller" />
       <recent name="E:\youlexuan-parent\youlexuan-user-web\src\main\webapp\js\service" />
-      <recent name="E:\youlexuan-parent\youlexuan-user-web\src\main\webapp\js\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -968,7 +754,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test.test3">
+  <component name="RunManager" selected="Tomcat Server.youlexuan-user-web">
     <configuration name="SolrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offcn.solrutil.SolrUtil" />
       <module name="youlexuan-solr-util" />
@@ -1985,7 +1771,7 @@
       <workItem from="1575792902671" duration="40360000" />
       <workItem from="1575963120265" duration="17371000" />
       <workItem from="1576457962970" duration="30986000" />
-      <workItem from="1576578559568" duration="34961000" />
+      <workItem from="1576578559568" duration="39606000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1576677789064</created>
@@ -1994,7 +1780,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576677789064</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1576718451954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576718451954</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2030,7 +1823,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269720000" />
+    <option name="totallyTimeSpent" value="274365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2064,10 +1857,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32822084" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49920633" weight="0.3297546" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984127" weight="0.40644172" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4984127" visible="true" weight="0.40644172" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32924962" />
       <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49920633" weight="0.32822084" />
-      <window_info active="true" content_ui="combo" x="502" y="45" width="299" height="678" id="Project" order="0" sideWeight="0.52220523" visible="true" weight="0.23730159" />
+      <window_info content_ui="combo" x="502" y="45" width="299" height="678" id="Project" order="0" sideWeight="0.52220523" visible="true" weight="0.29761904" />
       <window_info id="Web" order="2" sideWeight="0.4777948" side_tool="true" weight="0.25873017" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -2138,64 +1931,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service/src/main/resources/spring/applicationContext-tx.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-common/src/main/resources/spring/applicationContext-redis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-interface/src/main/java/com/offcn/sellergoods/service/ItemCatService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service/src/main/java/com/offcn/sellergoods/service/impl/BrandServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service/target/classes/com/offcn/sellergoods/service/impl/ItemCatServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1425">
-          <folding>
-            <element signature="e#0#3712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.2.RELEASE/spring-data-redis-1.7.2.RELEASE.jar!/org/springframework/data/redis/core/BoundHashOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-content-service/src/main/java/com/offcn/content/service/impl/ContentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1386">
@@ -2285,20 +2020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -2310,13 +2031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/controller/userController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1897">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -2345,34 +2059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="730" selection-start-line="730" selection-end-line="730" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-tx.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/java/com/offcn/user/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-activemq.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -2470,7 +2156,34 @@
     <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web/src/main/java/com/offcn/shop/controller/ItemCatController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3662">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/home-order-evaluate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/java/com/offcn/user/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2481,10 +2194,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-activemq.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="250">
+          <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/java/com/offcn/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/java/com/offcn/user/service/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/home-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="162" column="34" selection-start-line="162" selection-start-column="34" selection-end-line="162" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/controller/userController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/webapp/js/service/loginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web/src/java/com/offcn/portal/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
