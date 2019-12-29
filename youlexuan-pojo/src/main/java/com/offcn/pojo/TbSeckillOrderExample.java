@@ -1,18 +1,13 @@
 package com.offcn.pojo;
 
-import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class TbSeckillOrderExample  implements Serializable{
-    /**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-
-	protected String orderByClause;
+public class TbSeckillOrderExample {
+    private static final long serialVersionUID = 4125096758372084313L;
+    protected String orderByClause;
 
     protected boolean distinct;
 

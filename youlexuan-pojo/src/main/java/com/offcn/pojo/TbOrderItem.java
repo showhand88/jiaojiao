@@ -3,13 +3,14 @@ package com.offcn.pojo;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
-public class TbOrderItem  implements Serializable{
-    /**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
+public class TbOrderItem implements Serializable {
 
-	private Long id;
+    /**
+     *
+     */
+    private static final long serialVersionUID = -4217795531878419482L;
+
+    private Long id;
 
     private Long itemId;
 
@@ -107,5 +108,21 @@ public class TbOrderItem  implements Serializable{
 
     public void setSellerId(String sellerId) {
         this.sellerId = sellerId == null ? null : sellerId.trim();
+    }
+
+    @Override
+    public String toString() {
+        return "TbOrderItem{" +
+                "id=" + id +
+                ", itemId=" + itemId +
+                ", goodsId=" + goodsId +
+                ", orderId=" + orderId +
+                ", title='" + title + '\'' +
+                ", price=" + price +
+                ", num=" + num +
+                ", totalFee=" + totalFee +
+                ", picPath='" + picPath + '\'' +
+                ", sellerId='" + sellerId + '\'' +
+                '}';
     }
 }

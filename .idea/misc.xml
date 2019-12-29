@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-cart-interface/youlexuan-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-cart-web" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-content-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-order-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-pay-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-portal-web" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-seckill-web" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-sellergoods-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-shop-web" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-solr-util" />
+    <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-task-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-service" />
     <file type="web" url="file://$PROJECT_DIR$/../youlexuan-parent/youlexuan-user-web" />
   </component>
@@ -23,6 +31,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/youlexuan-cart-interface/youlexuan-cart-service/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan-content-interface/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan-content-service/pom.xml" />
       </set>

@@ -9,6 +9,7 @@ import java.util.Date;
 import java.util.Map;
 
 public class TbItem implements Serializable {
+    private static final long serialVersionUID = -7255897985645031358L;
     // 将优乐选的TbItem实体类拷入本工程, Solr操作相关的属性使用@Field注解标识。如果属性与配置文件定义的域名称不一致，需要在注解中指定域名称。
     @Field
     private Long id;

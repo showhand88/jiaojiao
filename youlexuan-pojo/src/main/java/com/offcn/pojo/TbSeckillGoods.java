@@ -4,13 +4,9 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-public class TbSeckillGoods  implements Serializable{
-    /**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-
-	private Long id;
+public class TbSeckillGoods implements Serializable {
+    private static final long serialVersionUID = 4125096758372084310L;
+    private Long id;
 
     private Long goodsId;
 
@@ -168,5 +164,27 @@ public class TbSeckillGoods  implements Serializable{
 
     public void setIntroduction(String introduction) {
         this.introduction = introduction == null ? null : introduction.trim();
+    }
+
+    @Override
+    public String toString() {
+        return "TbSeckillGoods{" +
+                "id=" + id +
+                ", goodsId=" + goodsId +
+                ", itemId=" + itemId +
+                ", title='" + title + '\'' +
+                ", smallPic='" + smallPic + '\'' +
+                ", price=" + price +
+                ", costPrice=" + costPrice +
+                ", sellerId='" + sellerId + '\'' +
+                ", createTime=" + createTime +
+                ", checkTime=" + checkTime +
+                ", status='" + status + '\'' +
+                ", startTime=" + startTime +
+                ", endTime=" + endTime +
+                ", num=" + num +
+                ", stockCount=" + stockCount +
+                ", introduction='" + introduction + '\'' +
+                '}';
     }
 }
